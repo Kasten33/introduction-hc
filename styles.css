@@ -1,0 +1,25 @@
+li{
+    background-color: black;
+    color: White;
+    text-align: center;
+}
+.welcome{
+    text-align: center;
+    font-size: 20px;
+    color: red;
+}
+.to{
+    text-align: center;
+    font-size: 20px;
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.club{
+    background-color: black;
+    color: white;
+    margin: px;
+
+}
+body{
+    background-color: black;
+}
