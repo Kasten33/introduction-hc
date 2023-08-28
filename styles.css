@@ -30,3 +30,7 @@ nav li{
 body{
     background-color: black;
 }
+nav {
+    position: sticky;
+    top: 148px;
+}
