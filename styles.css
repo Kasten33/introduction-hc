@@ -1,7 +1,14 @@
-li{
+nav ul{
+    white-space: nowrap;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+nav li{
     background-color: black;
     color: White;
-    text-align: center;
+    display: inline-block;
+    padding: 25px;
+    width: 25%;
 }
 .welcome{
     text-align: center;
