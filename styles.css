@@ -1,5 +1,5 @@
 header{
-    background-color: darkgray;
+    background-color: rgb(46, 41, 41);
     padding: 1px;
     padding-top: 1px;
     text-align: center;
@@ -13,7 +13,9 @@ nav li{
     background-color: black;
     color: White;
     display: inline-block;
-    padding: 50px;
+    padding-left: 125px;
+    padding-right: 125px;
+    padding-top: 25px;
     width: 50%;
 }
 .welcome{
@@ -28,8 +30,8 @@ nav li{
     font-family: Arial, Helvetica, sans-serif;
 }
 .club{
-    background-color: darkgrey;
-    color: black;
+    background-color: rgb(46, 41, 41);
+    color: rgb(0, 0, 0);
     margin: px;
 
 }
